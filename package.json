@@ -1,0 +1,19 @@
+{
+  "name": "electron-json-2-csv",
+  "version": "1.0.0",
+  "description": "convert json to csv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "csv",
+    "electron"
+  ],
+  "author": "Anderson Meira",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^7.1.7"
+  }
+}
